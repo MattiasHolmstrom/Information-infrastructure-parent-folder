@@ -1,0 +1,447 @@
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll.config
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\LaborationCSN.pdb
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe.config
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\csc.rsp
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe.config
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\csi.rsp
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.AppContext.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Console.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Compression.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Claims.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.ValueTuple.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe.config
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\vbc.rsp
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.Razor.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\WebGrease.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.Razor.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.pdb
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csprojAssemblyReference.cache
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csproj.CopyComplete
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.pdb
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\EntityFramework.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.EF6.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.Linq.dll
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\EntityFramework.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.xml
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll.config
+C:\Users\chrst545\source\repos\LaborationCSN\LaborationCSN\bin\db\csn.sqlite
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\db\csn.sqlite
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll.config
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\LaborationCSN.pdb
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe.config
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\csc.rsp
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe.config
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\csi.rsp
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.AppContext.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Console.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Compression.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Claims.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.ValueTuple.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe.config
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\vbc.rsp
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\EntityFramework.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.EF6.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.Linq.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.Razor.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\WebGrease.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\EntityFramework.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll.config
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.Razor.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.pdb
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csprojAssemblyReference.cache
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csproj.CopyComplete
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.dll
+C:\Users\chrst545\Desktop\LaborationCSN_SQLite\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.pdb
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\db\csn.sqlite
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll.config
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\LaborationCSN.pdb
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe.config
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\csc.rsp
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe.config
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\csi.rsp
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.AppContext.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Console.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Compression.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Claims.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.ValueTuple.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe.config
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\vbc.rsp
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\EntityFramework.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.EF6.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.Linq.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.Razor.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\WebGrease.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\EntityFramework.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll.config
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.Razor.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.pdb
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csprojAssemblyReference.cache
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csproj.CopyComplete
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.dll
+C:\Users\chrst545\Desktop\labb ii\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.pdb
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\db\csn.sqlite
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll.config
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\LaborationCSN.pdb
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe.config
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\csc.rsp
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe.config
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\csi.rsp
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CSharp.Core.targets
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Managed.Core.targets
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.AppContext.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Collections.Immutable.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Console.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.StackTrace.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Compression.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.AccessControl.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Reflection.Metadata.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.AccessControl.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Claims.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Principal.Windows.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Text.Encoding.CodePages.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.ValueTuple.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.ReaderWriter.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XmlDocument.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.XDocument.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe.config
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\vbc.rsp
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe.config
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\EntityFramework.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Microsoft.Web.Infrastructure.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.EF6.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.Linq.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.Razor.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\WebGrease.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\EntityFramework.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll.config
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.Razor.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.pdb
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csprojAssemblyReference.cache
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csproj.CoreCompileInputs.cache
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csproj.CopyComplete
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.dll
+x:\Desktop\LaborationCSNNOVS\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.pdb
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\db\csn.sqlite
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll.config
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\LaborationCSN.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\LaborationCSN.pdb
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\csc.exe.config
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\csc.rsp
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\csi.exe.config
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\csi.rsp
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.AppContext.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Console.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Compression.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.IO.Pipes.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Claims.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.ValueTuple.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\vbc.exe.config
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\vbc.rsp
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\EntityFramework.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.EF6.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.Linq.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.Razor.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\WebGrease.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\EntityFramework.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\EntityFramework.SqlServer.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Data.SQLite.dll.config
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.Helpers.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.Mvc.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.Optimization.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.Razor.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Web.WebPages.Razor.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Newtonsoft.Json.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Antlr3.Runtime.pdb
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csprojAssemblyReference.cache
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csproj.CoreCompileInputs.cache
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.csproj.CopyComplete
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration I - CSN\LaborationCSN\LaborationCSN\obj\Debug\LaborationCSN.pdb

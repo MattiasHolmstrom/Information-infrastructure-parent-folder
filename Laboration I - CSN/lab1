@@ -1,0 +1,18 @@
+public ActionResult Uppgift1()
+{
+    string query = @"SELECT a.Arendenummer, u.UtbetDatum, u.UtbetStatus, SUM(((Sluttid-starttid +1) * b.Belopp)) as Summa
+                     FROM UtbetaldTid_Belopp utb, Belopp b, UtbetaldTid ut, Utbetalning u, Arende a, Utbetalningsplan up
+                     WHERE utb.BeloppID = b.BeloppID AND utb.UtbetaldTidID = ut.UtbetTidID AND ut.UtbetID = u.UtbetID
+                     AND a.Arendenummer = up.Arendenummer AND up.UtbetPlanID = u.UtbetPlanID
+                     GROUP BY a.Arendenummer, u.UtbetDatum
+                     ORDER BY u.UtbetDatum ASC";
+    XElement u1 = SQLResult(query, "Utbetalningar", "UtbetalningSummering");
+
+   // XElement total = new XElement("Total",
+   //     (from b in test.Descendants("Summa")
+   //      select (int)b).Sum());
+   // test.Add(summa);
+   var new = u1.Descendants("")
+
+    return View();
+}

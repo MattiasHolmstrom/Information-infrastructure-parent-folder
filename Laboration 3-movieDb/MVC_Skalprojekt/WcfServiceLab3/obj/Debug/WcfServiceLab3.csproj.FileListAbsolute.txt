@@ -1,0 +1,40 @@
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.dll.config
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.dll
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.pdb
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\Newtonsoft.Json.dll
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\Newtonsoft.Json.xml
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csproj.CoreCompileInputs.cache
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csproj.CopyComplete
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.dll
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.pdb
+x:\Desktop\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csprojAssemblyReference.cache
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.dll.config
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.pdb
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\Newtonsoft.Json.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\bin\Newtonsoft.Json.xml
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csprojAssemblyReference.cache
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csproj.CoreCompileInputs.cache
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csproj.CopyComplete
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.dll
+C:\Users\danku\Desktop\UU\Systemvetenskap\Informationsinfrastruktur\Laboration 3\LaborationIII_Skalprojekt (2)\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.pdb
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.dll.config
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.dll
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.pdb
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\bin\Newtonsoft.Json.dll
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\bin\Newtonsoft.Json.xml
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csproj.CoreCompileInputs.cache
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csproj.CopyComplete
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.dll
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.pdb
+C:\Users\danku\Desktop\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csprojAssemblyReference.cache
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.dll.config
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.dll
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\bin\WcfServiceLab3.pdb
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\bin\Newtonsoft.Json.dll
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\bin\Newtonsoft.Json.xml
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csprojAssemblyReference.cache
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csproj.CoreCompileInputs.cache
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.csproj.CopyComplete
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.dll
+U:\PG21_lab3\MVC_Skalprojekt\WcfServiceLab3\obj\Debug\WcfServiceLab3.pdb

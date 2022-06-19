@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ServiceAppLab2.ClientFunctionality" CodeBehind="ClientFunctionality.svc.cs" %>

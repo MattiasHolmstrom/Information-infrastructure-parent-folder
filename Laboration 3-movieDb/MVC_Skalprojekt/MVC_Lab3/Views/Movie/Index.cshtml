@@ -1,0 +1,91 @@
+﻿@*model IEnumerable<MVC_Lab3.Models.Movie>*@
+@model PagedList.IPagedList<MVC_Lab3.Models.Movie>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+
+    @using (Html.BeginForm())
+    {
+
+    <p>
+        Title: @Html.TextBox("searchtitle", ViewBag.CurrentFilterTitle as string)<br />
+        Original Title: @Html.TextBox("orgtitle", ViewBag.CurrentFilterOrgTitle as string)<br />
+        Release Year: @Html.TextBox("releaseyr", ViewBag.CurrentFilterRelease as string) <br />
+        Genre: @Html.TextBox("genre", ViewBag.CurrentFilterGenre as string)<br />
+        <input type="submit" value="Search" />
+    </p>
+
+}
+    </p>
+    @*<label for="title">Title:</label>
+
+        <input type="text" id="title" name="title"><br><br>*@
+    @*@Html.ActionLink("Search Movie", "SearchTitle")*@
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().OriginalTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().ReleaseYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Rating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Synopsis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Actors)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OriginalTitle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReleaseYear)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Synopsis)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Actors)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.MovieID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.MovieID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.MovieID })
+                </td>
+            </tr>
+        }
+
+    </table>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, currentFilterTitle = ViewBag.CurrentFilterTitle, currentFilterOrgTitle = ViewBag.CurrentFilterOrgTitle, currentFilterRelease = ViewBag.CurrentFilterRelease, currentFilterGenre = ViewBag.CurrentFilterGenre }))

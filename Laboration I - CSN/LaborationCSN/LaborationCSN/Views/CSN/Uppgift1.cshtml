@@ -1,0 +1,67 @@
+﻿@using System.Xml.Linq
+@model XElement
+
+@{
+    ViewBag.Title = "Uppgift 1 - Utbetalningar per ärende";
+}
+
+<h2>Uppgift 1 - Utbetalningar per ärende</h2>
+
+@{
+    // Detta är det XElement-objekt som skickats till vyn
+    XElement xml = Model;
+}
+
+@*..detta är en kommentar..*@
+@*iterera igenom alla <Utbetalningar> noder i Model som håller vår xml*@
+
+@foreach (var arende in xml.Elements("Arende"))
+{
+    <h3>Ärende @arende.Descendants().First().Element("Arendenummer").Value</h3>
+    <h4>Bidrag: @arende.Descendants().First().Element("Beskrivning").Value</h4>
+    <table table class="table-bordered table_50">
+        <thead>
+            <tr>
+                <th>
+                    Datum
+                </th>
+                <th>
+                    Status
+                </th>
+                <th>
+                    Summa
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var utbetalning in arende.Elements("UtbetalningSummering"))
+            {
+                <tr>
+                    <td>
+                        @((string)utbetalning.Element("UtbetDatum"))
+                    </td>
+                    <td>
+                        @((string)utbetalning.Element("UtbetStatus"))
+                    </td>
+                    <td>
+                        @((string)utbetalning.Element("Summa"))
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Total summa:</td>
+                <td>@(arende.Element("Totsumma").Value)</td>
+            </tr>
+            <tr>
+                <td>Utbetald summa:</td>
+                <td> @(arende.Element("Utbetsumma").Value)</td>
+            </tr>
+            <tr>
+                <td>Kvarvarande summa:</td>
+                <td>@(arende.Element("Kvarsumma").Value)</td>
+            </tr>
+        </tfoot>
+    </table>
+}

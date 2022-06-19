@@ -1,0 +1,7 @@
+U:\lab2Erecept\ServiceAppLab2\bin\ServiceAppLab2.dll.config
+U:\lab2Erecept\ServiceAppLab2\bin\ServiceAppLab2.dll
+U:\lab2Erecept\ServiceAppLab2\bin\ServiceAppLab2.pdb
+U:\lab2Erecept\ServiceAppLab2\obj\Debug\ServiceAppLab2.csprojAssemblyReference.cache
+U:\lab2Erecept\ServiceAppLab2\obj\Debug\ServiceAppLab2.csproj.CoreCompileInputs.cache
+U:\lab2Erecept\ServiceAppLab2\obj\Debug\ServiceAppLab2.dll
+U:\lab2Erecept\ServiceAppLab2\obj\Debug\ServiceAppLab2.pdb

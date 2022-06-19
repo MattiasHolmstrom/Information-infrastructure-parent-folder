@@ -1,0 +1,49 @@
+﻿@using System.Xml.Linq
+@model XElement
+
+@{
+    ViewBag.Title = "Uppgift 2 - Utbetalningar och bidragstyper";
+}
+
+<h2>Uppgift 2 - Utbetalningar och bidragstyper</h2>
+
+@{
+    // Detta är det XElement-objekt som skickats till vyn
+    XElement xml = Model;
+}
+
+@*..detta är en kommentar..*@
+@*iterera igenom alla <Utbetalningar> noder i Model som håller vår xml*@
+<table table class="table-bordered table_50">
+    <thead>
+        <tr>
+            <th>
+                Datum
+            </th>
+            <th>
+                Totalsumma
+            </th>
+            <th colspan="3">
+                Utbetalningar
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var utbd in xml.Elements("UtbetalningsDatum"))
+        {
+        <tr>
+            <td rowspan="5">@utbd.Descendants().First().Element("UtbetDatum").Value</td>
+            <td rowspan="5">@utbd.Element("Totsumma").Value</td>
+        </tr>
+            foreach (var utbetalning in utbd.Elements("UtbetalningSummering"))
+            {
+                <tr>                
+                    <td>@((string)utbetalning.Element("Beskrivning"))</td>
+                    <td>@((string)utbetalning.Element("Summa")) </td>
+                </tr>
+            }}
+    </tbody>
+
+ </table>
+   

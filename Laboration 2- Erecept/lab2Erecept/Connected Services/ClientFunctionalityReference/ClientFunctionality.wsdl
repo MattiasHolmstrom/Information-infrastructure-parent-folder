@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ClientFunctionality" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:56383/ClientFunctionality.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:56383/ClientFunctionality.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IFilter_GetTestData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTestData" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_GetTestData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTestDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_GetAllInterchanges_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllInterchanges" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_GetAllInterchanges_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllInterchangesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_FilterByInterchangeID_InputMessage">
+    <wsdl:part name="parameters" element="tns:FilterByInterchangeID" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_FilterByInterchangeID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FilterByInterchangeIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_FilterByInterchangeNode_InputMessage">
+    <wsdl:part name="parameters" element="tns:FilterByInterchangeNode" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_FilterByInterchangeNode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FilterByInterchangeNodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_FilterByInterchangeIDandNode_InputMessage">
+    <wsdl:part name="parameters" element="tns:FilterByInterchangeIDandNode" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_FilterByInterchangeIDandNode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FilterByInterchangeIDandNodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_FilterByInterchangeNodeValue_InputMessage">
+    <wsdl:part name="parameters" element="tns:FilterByInterchangeNodeValue" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_FilterByInterchangeNodeValue_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FilterByInterchangeNodeValueResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_Method1_InputMessage">
+    <wsdl:part name="parameters" element="tns:Method1" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_Method1_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Method1Response" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_Method2_InputMessage">
+    <wsdl:part name="parameters" element="tns:Method2" />
+  </wsdl:message>
+  <wsdl:message name="IFilter_Method2_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Method2Response" />
+  </wsdl:message>
+  <wsdl:portType name="IFilter">
+    <wsdl:operation name="GetTestData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFilter/GetTestData" message="tns:IFilter_GetTestData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFilter/GetTestDataResponse" message="tns:IFilter_GetTestData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllInterchanges">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFilter/GetAllInterchanges" message="tns:IFilter_GetAllInterchanges_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFilter/GetAllInterchangesResponse" message="tns:IFilter_GetAllInterchanges_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FilterByInterchangeID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFilter/FilterByInterchangeID" message="tns:IFilter_FilterByInterchangeID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFilter/FilterByInterchangeIDResponse" message="tns:IFilter_FilterByInterchangeID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FilterByInterchangeNode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFilter/FilterByInterchangeNode" message="tns:IFilter_FilterByInterchangeNode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFilter/FilterByInterchangeNodeResponse" message="tns:IFilter_FilterByInterchangeNode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FilterByInterchangeIDandNode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFilter/FilterByInterchangeIDandNode" message="tns:IFilter_FilterByInterchangeIDandNode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFilter/FilterByInterchangeIDandNodeResponse" message="tns:IFilter_FilterByInterchangeIDandNode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FilterByInterchangeNodeValue">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFilter/FilterByInterchangeNodeValue" message="tns:IFilter_FilterByInterchangeNodeValue_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFilter/FilterByInterchangeNodeValueResponse" message="tns:IFilter_FilterByInterchangeNodeValue_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Method1">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFilter/Method1" message="tns:IFilter_Method1_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFilter/Method1Response" message="tns:IFilter_Method1_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Method2">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFilter/Method2" message="tns:IFilter_Method2_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFilter/Method2Response" message="tns:IFilter_Method2_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IFilter" type="tns:IFilter">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetTestData">
+      <soap:operation soapAction="http://tempuri.org/IFilter/GetTestData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllInterchanges">
+      <soap:operation soapAction="http://tempuri.org/IFilter/GetAllInterchanges" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FilterByInterchangeID">
+      <soap:operation soapAction="http://tempuri.org/IFilter/FilterByInterchangeID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FilterByInterchangeNode">
+      <soap:operation soapAction="http://tempuri.org/IFilter/FilterByInterchangeNode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FilterByInterchangeIDandNode">
+      <soap:operation soapAction="http://tempuri.org/IFilter/FilterByInterchangeIDandNode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FilterByInterchangeNodeValue">
+      <soap:operation soapAction="http://tempuri.org/IFilter/FilterByInterchangeNodeValue" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Method1">
+      <soap:operation soapAction="http://tempuri.org/IFilter/Method1" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Method2">
+      <soap:operation soapAction="http://tempuri.org/IFilter/Method2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ClientFunctionality">
+    <wsdl:port name="BasicHttpBinding_IFilter" binding="tns:BasicHttpBinding_IFilter">
+      <soap:address location="http://localhost:56383/ClientFunctionality.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,7 @@
+U:\lab2Erecept\lab2Erecept\bin\Debug\lab2Erecept.exe.config
+U:\lab2Erecept\lab2Erecept\bin\Debug\lab2Erecept.exe
+U:\lab2Erecept\lab2Erecept\bin\Debug\lab2Erecept.pdb
+U:\lab2Erecept\lab2Erecept\obj\Debug\lab2Erecept.csprojAssemblyReference.cache
+U:\lab2Erecept\lab2Erecept\obj\Debug\lab2Erecept.csproj.CoreCompileInputs.cache
+U:\lab2Erecept\lab2Erecept\obj\Debug\lab2Erecept.exe
+U:\lab2Erecept\lab2Erecept\obj\Debug\lab2Erecept.pdb
